@@ -1,0 +1,9 @@
+# ---- Maven File ----#
+target
+
+# ---- IDE File ----#
+.setting
+catalog
+.classpath
+.project
+mule-project.xml
